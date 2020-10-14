@@ -1,4 +1,4 @@
-User-Agent:*
-Allow: /
+User-agent: *
+Allow:/
 
-Sitemap: https://haircheck.com.xml
+Sitemap: https://haircheck.netlify.app/sitemap.xml
